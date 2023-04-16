@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "title": "title",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
